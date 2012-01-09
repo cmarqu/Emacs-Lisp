@@ -1,0 +1,4 @@
+An emacs mode that colors the modeline depending on the path a file is in or the filename itself.
+This is useful if you work with files that have the same name but come from different paths, like one file in trunk/ and one in branches/.
+
+Tested with GNU Emacs 23.
